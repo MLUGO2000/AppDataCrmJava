@@ -2,12 +2,19 @@
 Prueba Tecnica Data Crm en Java
 
 Realizado bajo Clean Architecture y Patron MVP
+
 Java
+
 RxJava y RxAndroid
+
 ViewBinding 
+
 MaterialComponent (CardView,RecyclerView)
+
 Clean Architecture
+
 Retrofit
+
 Dagger 2
 
 # Clean Architecture
